@@ -1,3 +1,6 @@
 [submodule "themes/leafless-theme"]
 	path = themes/leafless-theme
 	url = https://github.com/deodandem/leafless-theme
+[submodule "themes/judith-theme"]
+	path = themes/judith-theme
+	url = https://github.com/deodandem/judith-theme
