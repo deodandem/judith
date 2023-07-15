@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'judith'
-theme = 'leafless-theme'
+theme = 'judith-theme'
 
 
 [markup]
