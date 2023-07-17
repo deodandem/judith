@@ -1,9 +1,10 @@
 html {
-    font-family: 'Helvetica Neue';
+    font-family: 'Times';
     font-size: 16px;
     font-weight: 300;
     height: 100%;
-    background:  no-repeat center center fixed;
+    background-color:  white;
+    color: black;
     -webkit-background-size: cover;
     background-size: cover;
    -moz-background-size: cover;
@@ -69,6 +70,7 @@ html {
       font-family: 'Times';
       font-size: 1.1em;
       max-width: 55em;
+      color: black;
   }
 
 .standard {
@@ -101,48 +103,15 @@ html {
   }
   a {
       text-decoration: none;
-      transition: 0.3s ease-in-out;  
+      transition: 0.1s ease-in-out;  
       color: inherit;
   }
 
   a:hover {
-    text-shadow: 0px 0px .1em rgb(0,0,0,.5);
-  }
-  
-  .black-window {
-   width: 600px;
-   height: fit-content;
-   line-height:1.5em;
-   margin: 10% auto 10% auto;
-   padding: 70px 70px 70px 70px;
-   background-color: rgb(0,0,0,.9);
-   border: 1px solid white;
-   font-size: 18px; 
-   color: rgb(255,255,255,.9); 
+    color: white;
+    text-shadow: 0px 0px 1px rgb(0,0,0,.8);
   }
 
-  .black-window p {
-    color: rgb(255,255,255,.9); 
-  }
-
-  .black-window div {
-    color: rgb(255,255,255,.9); 
-  }
-
-
-  .black-window a {
-    transition: 0.3s ease-in-out;  
-    font-variant: small-caps;
-    color: rgb(175,91,91);
-  }
-
-  .email {
-    margin: 1em auto 1em 50px;
-    max-width: 650px;
-    font-family: 'Helvetica';
-    font-size: 14px;
-    text-align: left;
-  }
 
 
 /* collapsible */
@@ -357,13 +326,7 @@ html {
         height: 5px;               /* width of the entire scrollbar */
       }
       
-.sep {
-    width: 750px;
-    text-align: center;
-    margin-top: 2em;
-    margin-bottom: 2em;
-    font-size: 18px;
-  }
+
 
   .white-window {
     width: 600px;
@@ -519,64 +482,6 @@ html {
 
 }
 
-.october {
-  margin-right: 2em;
-  font-family: 'Helvetica';
-  font-size: 14px;
-  color: rgb(250,0,0);
-  line-height:1.5em;
-  padding: 1em;
-  padding-left: 50px;
-}
-
-.november {
-  min-width:500px;
-  height: 1000px; 
-  overflow: auto;
-  font-family: 'Helvetica';
-  font-weight: 300;
-  font-size: 12px;
-  line-height:1.5em;
-  margin: 100px 20px 200px 20px;
-  color: rgb(230,230,220,.5);
-  text-shadow: 0 0 8px rgb(200,200,200);
-  background-color: rgb(0,0,0,.5);
-  padding: 50px 50px 50px 50px;
-}
-
-.november::-webkit-scrollbar {
-  display: none;
-}
-
-.november blockquote {
-  font-family: 'Baskerville';
-  font-size: inherit;
-  margin: 0em 2em 2em 1em;
-  padding: -10px 0 -10px 20px;
-  border-left: 3px solid rgb(255,255,255,.2);
-}
-
-.epistole {
-  width:700px;
-  margin: 0 auto 0 auto;
-  color: rgb(230,230,230);
-  font-family: 'Helvetica'; font-size:14px; font-weight:400;
-}
-
-.epistole blockquote {
-  width:650px;
-  margin: 20px auto 20px auto;
-  padding-right:25px;
-}
-
-p .october {
-  margin-right: 2em;
-  font-family: 'Helvetica';
-  font-size: 14px;
-  color: inherit;
-  line-height:1.5em;
-  padding: 2em;
-}
 
 
 .horizontal::-webkit-scrollbar {
@@ -590,27 +495,8 @@ p .october {
   white-space:nowrap
   } 
   
-  .white {
-    border-left: 3px solid ;
-    rgb(200,200,200);
-    border-radius: .2em;
-    padding-left: 2em;
-    padding-top: .5em;
-    padding-bottom: .5em;
-    padding-right: 5em;
-    margin-right: 5em;
-    width: 40em;
-    max-height: fit-content;
-  }
 
-  .round-white {
-    font-size:13px; font-family: 'Helvetica'; font-weight: 400; width: 450px; padding: 50px 100px 50px 100px; line-height:1.5em; background-color: white; color: black; margin: 100px auto 100px auto;  border-radius: 40px; border: black solid 1px;
-  }
 
-  .round-trans {
-    font-size:13px; font-family: 'Helvetica'; font-weight: 400; width: 450px; padding: 50px 100px 50px 100px; line-height:1.5em;
-    color: white; margin: 100px auto 100px auto;  border-radius: 40px; border: white solid 1px;
-  }
 
   center {
     font-family: 'Times';
@@ -629,71 +515,6 @@ p .october {
   }
   
   
-  .mono-trans {
-    font-family: 'IBM Plex Mono';
-    color: rgb(80,80,80);
-    font-size: 12px;
-    font-weight: 400;
-    background: rgb(240,240,240, .6);
-    border-radius: 10px;
-    border-left: none;
-    padding: 30px 40px 30px 50px;
-    text-align: left;
-    margin: .5em auto 6em 7vw;
-    width: fit-content;
-  }
-  
-  .mono-black {
-    font-family: 'Baskerville';
-    color: rgb(250,250,250);
-    font-size: 1em;
-    font-weight: 500;
-    background: rgb(0,0,0, .7);
-    border-radius: 10px;
-    border-left: none;
-    padding: 30px 40px 30px 50px;
-    text-align: left;
-    margin: .5em 0em 50em 25%;
-    
-    width: fit-content;
-    max-width: 350px;
-  }
-  
-  .mono-blank {
-    background-color: rgb(0,0,0,0);
-    color: white;
-    font-family: 'Times';
-    border-left: none;
-    max-width: fit-content;
-    margin: 50em auto 50em 20em;
-  }
-  
-  .mono-grey {
-    font-family: 'Times';
-    color: rgb(210,210,210);
-    font-style: italic;
-    font-size: 1em;
-    font-weight: 400;
-    background: rgb(0,0,0,.4);
-    border-radius: 10px;
-    padding: 30px 40px 30px 50px;
-    text-align: left;
-    margin: .5em 0em 5em 15em;
-    width: fit-content;
-    max-width: 600px;
-  }
-  .mono-white {
-    font-family: 'Times';
-    color: rgb(200,200,200);
-    font-size: .9em;
-    font-weight: 400;
-    background: rgb(250,250,250, .1);
-    border-radius: 10px;
-    padding: .6em 2em 2em 2em;
-    text-align: left;
-    margin: .5em 0em 50em 20em;
-    width: fit-content;
-  }
   
   .glow {
     -webkit-border-radius: 60px;
@@ -731,17 +552,6 @@ p .october {
       margin-bottom: 1em;
   }
   
-  
-  .sonnet {
-    position: relative;
-    color: white;
-    font-family: 'Times';
-    font-size: 12pt;
-    line-height: 1.5em;
-    margin:100px auto 250px auto;
-    width: 400px;
-
-  }
   
   
   .summary {
@@ -868,82 +678,57 @@ p .october {
     color: rgb(0,0,0,.5);
   }
   
+.frontpage ol {
+    margin-bottom:5px;
+  }
+
+  .frontpage li:before {
+
+      margin-right: 10px;
+      content: counter(item);
+      background: lightblue;
+      border-radius: 100%;
+      color: white;
+      width: 1.2em;
+      text-align: center;
+      display: inline-block;
+    }
+  
+
+
   .largebox {
-    display: flex;
-    justify-content: center;
-    position: absolute;
-    top: 20%;
-    width: 100%;
-    margin: 0 auto 5em auto;
-    padding-bottom: 5em;
+   width: 550px;
+   margin:75px auto 50px auto;
+    padding:60px;
     font-family: Times;
-    color: white;
-    font-size: 16px;
+    color: black;
+    font-size: 18px;
     line-height: 1.7em;
   }
   
-  .poembox {
-      display: flex;
-      justify-content: center;
-      position: absolute;
-      top: 35%;
-      margin-top: 500px;
-      width: 100%;
-      margin: 0 auto;
-      font-family: Times;
-      color: rgb(255,255,255,.7);
-      font-size: 20px;
-      line-height: 1.7em;
-  }
-  
-  .darkpoembox {
-      background-color: rgb(0, 0, 0,.5);
-      padding: 10px;
-      border-radius:7px;
-      
-  }
-  
-
-  #container {
-  background: rgba(0, 0, 0, 0.5);
-  }
   
 
   .title {
-      font-family: 'Helvetica Neue';
-      font-size: 5em;
+    color: black;  
+    font-family: 'Times';
+    font-size: 5em;
       text-align: center;
       width: 90%;
       margin: auto;
       margin-top: 100px;
-      text-shadow: 0px 0px 15px black;
       font-weight:500;
   }
   
   .title a {
-    color: white;
-    transition: 0.3s ease-in-out;  
+    color: black;
+    transition: 0.1s ease-in-out;  
   }
 
   .title a:hover {
-    text-shadow: 0 0 20px black;
+    color:white;
   }
   
-  .title-black {
-    font-family: 'Helvetica Neue';
-    font-size: 5em;
-    text-align: center;
-    width: 90%;
-    margin: auto;
-    margin-top: 1em;
-    margin-bottom: .5em;
-    text-shadow: 0px 0px 5px black;
-  }
-  .title-black a {
-    color: black;
-    transition: 0.3s ease-in-out;  
-  }
-  
+
   
   .pagination {
       text-align: center;
@@ -1137,10 +922,8 @@ p .october {
   .menubar {
     font-family: 'Helvetica Neue';
     font-weight: 300;
-    background-color: rgb(210,210,210,.2);
-    border-radius: 15px;
     padding: 8px;
-    font-size: 25px;
+    font-size: 24px;
     margin: auto;
     margin-top: 2em;
     margin-bottom: 3em;
@@ -1195,7 +978,7 @@ p .october {
 
   }
   
-  .poembutton { 
+  .corner-button { 
     font-size: 1em; 
     position: relative;
     top:0;
@@ -1203,7 +986,7 @@ p .october {
     margin-left: 90%;
     margin-bottom: -5em;
   }
-  .poembutton a { 
+  .corner-button a { 
     color: grey;
     background-color: rgb(250,250,250,.1);
     border-radius: 10px;
@@ -1253,17 +1036,11 @@ p .october {
   
   
   .footerbar {
-    background-image: linear-gradient(to bottom right, red, yellow);
-    border-radius: 15px;
-    padding: 10px;
     font-size: 20px;
-      font-weight: 400;
-    margin: auto;
-    margin-top: 1em;
-    margin-bottom: 2em;
-    width: 4em;
-    align-content: left;
-    position: flex;
+    font-weight: 400;
+    margin: 0px auto 100px auto;
+    width: 100%;
+    align-content: center;
   }
   
   .table tr, td{
@@ -1301,6 +1078,10 @@ p .october {
     padding-left: 45px;
     position: relative;
     }
+
+  ol > li:before {
+    color: red;
+  }  
 
 
   ul > li:before {
@@ -1340,6 +1121,25 @@ p .october {
     font-weight: 400;
     text-indent: 10px;
   }
+
+
+.custom-counter {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.custom-counter li {
+  counter-increment: step-counter;
+}
+.custom-counter li::before {
+  content: counter(step-counter);
+  font-size: 100%;
+  background-color: black;
+  color: white;
+  border: .5px solid white;
+  font-weight: bold;
+  padding: 30px 20px;
+}
   
   .main,
   header,
@@ -1347,30 +1147,25 @@ p .october {
     margin: auto;
     margin-top: 2em;
     width: 90%;
-    position: relative
+    position: relative;
   }
   
   .card {
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgb(0,0,0,.3);
-    padding: 25px;
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-bottom: 55px;
-    width: 300px;
-    height: 300px;
-    box-sizing: border-box;
-    background-size: 500px;
-    background-repeat: no-repeat;
-    background-position: top;
-    background-color: none;
-    transition: 0.3s ease-in-out;
-    
+    border: 1px solid black;
+    padding: 40px;
+    margin: -70px 0px 60px 20px;
+    width: 550px;
+    font-family: 'Times';
+    font-size: 18px;
+    line-height:1.5em;
   }
-  
+
+
   .card:hover{
-      box-shadow: 0px 0px 10px black;
+    background: black;
   }
+
+
   
   .card h3,
   .card p {
@@ -1424,15 +1219,7 @@ p .october {
   color: inherit;
  }
 
- .black-window p, ol, ul, li {
-  color: black;
-  font-family: inherit;
-  color: inherit;
-  font-size: inherit;
-  padding: none;
-  margin-left: 0;
- }
-  
+
 
 .wide {
   font-family: 'IBM Plex Mono';
@@ -1486,8 +1273,8 @@ p .october {
   
   .flex {
     display: flex;
-      font-family: 'Helvetica Neue';
-      font-weight: 300;
+    font-family: 'Helvetica Neue';
+    font-weight: 300;
     flex-wrap: wrap;
     margin-left: 0;
     width: 100%;
@@ -1669,17 +1456,6 @@ toc li {
     background-color: rgb(0,0,0,0.2);
     color: rgb(255,255,255,.9);
     
-  }
-
-  .may p {
-    font-family: 'Baskerville';
-  }
-
-
-  .may a {
-    transition: 0.3s ease-in-out;  
-    font-variant: small-caps;
-    color: rgb(175,91,91);
   }
 
 

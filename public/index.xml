@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
+    <title>Judith</title>
+    <link>25-25.netlify.app/</link>
+    <description>Recent content on Judith</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 15 Jul 2023 17:33:04 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jul 2023 17:33:04 -0400</lastBuildDate><atom:link href="25-25.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Two</title>
-      <link>/posts/two/</link>
+      <link>25-25.netlify.app/posts/two/</link>
       <pubDate>Sat, 15 Jul 2023 17:33:04 -0400</pubDate>
       
-      <guid>/posts/two/</guid>
+      <guid>25-25.netlify.app/posts/two/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Start</title>
-      <link>/posts/start/</link>
+      <link>25-25.netlify.app/posts/start/</link>
       <pubDate>Sat, 15 Jul 2023 16:08:00 -0400</pubDate>
       
-      <guid>/posts/start/</guid>
+      <guid>25-25.netlify.app/posts/start/</guid>
       <description>An attempt to speak about whatever is going on before I move.</description>
     </item>
     
