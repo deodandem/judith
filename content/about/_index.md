@@ -41,9 +41,11 @@ Against the notion that the website is "against public life," I have made attemp
 
 <div style="text-align: right; margin-top:40px;">(January 18, 2023)</div>
 
-
 <div style="text-align: center; margin-top:50px;">
 
-<a href="/" style="text-decoration:none; font-weight:bold;">Return to Home</a></div>
+
+<a href="/" style="text-decoration:none; font-weight:bold;">Return to Home</a>
+
+</div>
 
 

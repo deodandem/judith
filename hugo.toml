@@ -1,1 +1,39 @@
+baseURL = '25-25.netlify.app'
+languageCode = 'en-us'
+title = 'Judith'
 theme = 'judith-theme'
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+
+[context.production.environment]
+TZ = "America/New_York"
+
+[Params]
+mainSections = ["posts", "black", "white", "large"]
+
+[menu]
+[[menu.main]]
+identifier = 'about'
+name = 'about'
+url = '/about/'
+weight = 1
+
