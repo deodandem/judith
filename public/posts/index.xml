@@ -4,26 +4,23 @@
     <title>Posts on Judith</title>
     <link>25-25.netlify.app/posts/</link>
     <description>Recent content in Posts on Judith</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jul 2023 17:33:04 -0400</lastBuildDate><atom:link href="25-25.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Two</title>
-      <link>25-25.netlify.app/posts/two/</link>
-      <pubDate>Sat, 15 Jul 2023 17:33:04 -0400</pubDate>
-      
-      <guid>25-25.netlify.app/posts/two/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 21 Feb 2025 14:52:12 -0500</lastBuildDate>
+    <atom:link href="25-25.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Start</title>
       <link>25-25.netlify.app/posts/start/</link>
-      <pubDate>Sat, 15 Jul 2023 16:08:00 -0400</pubDate>
-      
+      <pubDate>Fri, 21 Feb 2025 14:52:12 -0500</pubDate>
       <guid>25-25.netlify.app/posts/start/</guid>
-      <description>An attempt to speak about whatever is going on before I move.</description>
+      <description>An attempt at landing at a new place on a winter&amp;rsquo;s day.</description>
     </item>
-    
+    <item>
+      <title>Q&amp;A</title>
+      <link>25-25.netlify.app/posts/basics/</link>
+      <pubDate>Fri, 21 Feb 2025 10:32:17 -0500</pubDate>
+      <guid>25-25.netlify.app/posts/basics/</guid>
+      <description>frequently asked questions and reflections on the work</description>
+    </item>
   </channel>
 </rss>

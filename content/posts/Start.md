@@ -1,14 +1,13 @@
 ---
 title: "Start"
-date: 2023-07-17T11:30:00-04:00
+date: 2025-02-21T14:52:12-05:00
 draft: false
-summary: "An attempt to speak about whatever is going on before I move."
-type: 'large'
-layout: 'large'
-bg: black
+summary: "An attempt at landing at a new place on a winter's day."
+type: large
+format: large
 ---
 
 
+<div class="standard" style="margin-bottom:175px;">
 
-<div style="color: white; font-size: 18px; margin-left:-70px;line-height:1.25em; width: 600px;">
 

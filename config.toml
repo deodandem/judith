@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'judith-c.netlify.app'
 languageCode = 'en-us'
-title = 'JUDITH'
+title = 'Judith'
 theme = 'judith-theme'
 
 
