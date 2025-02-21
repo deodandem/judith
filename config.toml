@@ -1,8 +1,7 @@
-baseURL = 'http://judith-c.netlify.app/'
+baseURL = 'https://judith-c.netlify.app/'
 languageCode = 'en-us'
 title = 'Judith'
 theme = 'judith-theme'
-
 
 [markup]
   [markup.goldmark]
