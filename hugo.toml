@@ -1,4 +1,4 @@
-baseURL = '25-25.netlify.app'
+baseURL = 'http://judith-c.netlify.app'
 languageCode = 'en-us'
 title = 'Judith'
 theme = 'judith-theme'
