@@ -1,6 +1,3 @@
 [submodule "themes/judith-theme"]
 	path = themes/judith-theme
 	url = https://github.com/deodandem/judith-theme
-[submodule "judith-theme"]
-	path = judith-theme
-	url = https://github.com/deodandem/judith-theme
