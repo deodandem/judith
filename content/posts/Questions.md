@@ -7,9 +7,6 @@ type: large
 format: large
 ---
 
-[*see my [**about**](/about) page for more information...*]
-
-<br>
 
 **Q:**
 
@@ -39,7 +36,7 @@ It's not outside of the realm of possibility, but there are several logistical i
 
 Outcall and incall are both possibilities, though I have a slight preference for an outcall experience in a hotel of your choosing. Or we could go on a first date that doesn't end in a private place, if you'd like.
 
-
+In any case, if you want to talk about this, [**email me**](chiloschista@proton.me).
 
 <div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
 
