@@ -32,19 +32,15 @@ Would you go on an in-person date with me?
 
 **A:**
 
-It's not outside of the realm of possibility, but there are several logistical items that we'd have to be on the same page about, including price and the background check process: the industry standard for escorts is to ask for ID and proof of employment, whose purpose is to make sure that you're not a cop. I value discretion, for I'd lose business otherwise.
-
-Outcall and incall are both possibilities, though I have a slight preference for an outcall experience in a hotel of your choosing. Or we could go on a first date that doesn't end in a private place, if you'd like.
-
-In any case, if you want to talk about this, [**email me**](chiloschista@proton.me).
+It's not outside of the realm of possibility, but there are several logistical items that we'd have to be on the same page about. If you're curious, [**email me**](chiloschista@proton.me).
 
 <div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
 
 
 
-**Q:** Do you have an Onlyfans or Fansly? Do you sell custom content?
+**Q:** Do you have an OnlyFans or Fansly? Do you sell custom content?
 
-**A:** Not at this time, because I value the synchronicity of my work. However, I do sometimes share photographs and tweets on **[X.](http://twitter.com/judith_chilo)**
+**A:** I made an OnlyFans recently. My username is chiloschista.
 
 
 <div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
