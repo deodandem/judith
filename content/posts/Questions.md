@@ -7,24 +7,9 @@ type: large
 format: large
 ---
 
+*(you may want to see my **[about](/about) page** as well...)*
 
-**Q:**
-
-How do you think about the ethics of sex work, on the client side? In other words, does a good life, for your client, involve paying you for sexual services? What are the benefits and limitations of SW?
-
-**A:**
-
-As a client, you should feel the pressure of the expense as a boon for thinking about why this is important to you and what you hope to come away with after each encounter. If I determine that it's worth seeing you in private, I want to be a participant in your pursuit of your desires.
-
-Pursuing your desires and having them satisfied but not permanently satisfied by a real person, I think, can free up a lot of energy, making you more engaged in other areas of your life that matter. I'd also like to help you think differently about your wants and needs, so that the stuckness associated with repetitive patterns (whether it be something that you feel is stuck or wrong with respect to your sexuality, and specifically with respect to the use of pornography or sexual services) can be modified.
-
-
-I envision this as a thing with a beginning and an end. My supervisor, for psychoanalytic work, told me that he tells his patients that he'd much rather have them come in three times a week and finish their analysis in a couple of years than have them come in once a week and stick around for a decade. I feel this way about sex work too. Unlike a love relationship, we can and should expect that a transactional sexual relationship should have a kind of terminus, though when that is and how that terminus is to be determined is not so easy to tell in advance.
-
-
-
-<div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
-
+<br>
 
 <b>Q:</b>
 
@@ -32,34 +17,10 @@ Would you go on an in-person date with me?
 
 **A:**
 
-It's not outside of the realm of possibility, but there are several logistical items that we'd have to be on the same page about. If you're curious, [**email me**](chiloschista@proton.me).
+It's not outside of the realm of possibility, but there are several logistical items that we'd have to be on the same page about. If you're curious, [**email me**](mailto:chiloschista@proton.me).
 
 <div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
 
-
-
-**Q:** Do you have an OnlyFans or Fansly? Do you sell custom content?
-
-**A:** I made an OnlyFans recently. My username is chiloschista.
-
-
-<div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
-
-
-**Q:**
-
-What motivated you to start camming? Why do you do this? Is this a short-term or long-term thing? Do you have another profession?
-
-**A:**
-
-During the pandemic, when I was far more isolated, I would watch models on CB to decompress at the end of the day. Beyond the immediate horniness this triggered in me, I found myself admiring and interested in the work the women did and in how the crowd interacted with them. I also loved the token coin sound, and continue to love it.
-
-I was a graduate student with a stipend, busy writing and teaching, and not yet detransitioned. About four years later I found myself in the position of taking on contract work as a college admissions essay tutor as I pursued post-graduate training to practice psychoanalysis in NYC. The contract work I took on was frustrating to me, and I have found that my interest in creative writing has overtaken any remaining desire I have to complete my dissertation and/or pursue an academic career.
-
-The training I'm in will take three or four more years for me to complete. I'm planning to use this journey in sex work to both fund my life (on a meager and basic level, so I can afford rent, out-of-pocket health expenses, and educational expenses, and hopefully move into a studio or one-bedroom), and to explore a different form of social work.
-
-
-<div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
 
 <b>Q:</b>
 
@@ -67,7 +28,48 @@ Where are you from? Do you speak other languages?
 
 <b>A:</b>
 
-I am American. I grew up on both the West and East Coast and have lived in California, Washington, Virginia, and New York. I primarily speak English, though I spoke some Mandarin growing up with my Taiwanese grandmother. My father is Korean, I don't speak the language. I studied Spanish and Spanish-language literature in college. I also studied Portuguese, French, Japanese, and Ancient Greek (a little).
+I am American. I grew up on both the West and East Coast and have lived in California, Washington, Virginia, and New York. I primarily speak English, though I spoke some Mandarin growing up with my Taiwanese grandmother. My father is Korean, I don't speak the language. I studied Spanish and Spanish-language literature in college. I also studied Portuguese, French, Japanese, and Ancient Greek (a little). Now I reside in Brooklyn, NY. I hope to live in Manhattan in the future, and possibly for the rest of my life.
+
+<div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
+
+
+**Q:** How can I get to know you better?
+
+**A:** The reality is that the best way to get to know me is to come to my streams. You can also [**email me**](chiloschista@proton.me) or DM me on [**OnlyFans**](http://onlyfans.com/chiloschista). I tend to be receptive to answering various questions, but I often experience it as tiring to be asked a question by someone I don't know anything about. If you want to get to know me, try flipping the question around: How can I get to know *you* better?
+
+Once I know a little more about you, I'll be more receptive to entering into a conversation, rather than an interview. I'm often curious about the work you do, your relationships with other people, and the music you listen to.
+
+<div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
+
+
+**Q:**
+
+How do you think about the ethics of sex work, on the client side? In other words, does a good life, for your client, involve paying you for sexual services?
+
+**A:**
+
+As a client, you should feel the pressure of the expense as a boon for thinking about why this is important to you and what you hope to come away with after each encounter. If I determine that it's worth seeing you in private, I want to be a participant in your pursuit of your desires. Pursuing your desires and having them satisfied but not permanently satisfied by a real person, I think, can free up a lot of energy, making you more engaged in other areas of your life that matter. I'd also like to help you think differently about your wants and needs, so that the stuckness associated with repetitive patterns (whether it be something that you feel is stuck or wrong with respect to your sexuality, and specifically with respect to the use of pornography or sexual services) can be modified.
+
+
+
+<div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
+
+
+
+**Q:**
+
+What motivated you to start camming? Is this a short-term or long-term thing? Do you have another profession? How does it actually feel to cam regularly?
+
+**A:**
+
+During the pandemic, when I was far more isolated, I would watch models on CB to decompress at the end of the day. Beyond the immediate horniness this triggered in me, I found myself admiring and interested in the work the women did and in how the crowd interacted with them. I also loved the token sound.
+
+I was a graduate student with a stipend, busy writing and teaching, and I was a man with little concern for sexual attention. About four years later I found myself in the position of taking on contract work as a college admissions essay tutor as I pursued post-graduate training to practice psychoanalysis in NYC.
+
+The contract work I took on was frustrating to me, and I have found that my interest in creative writing has overtaken any remaining desire I have to complete my dissertation and/or pursue an academic career. One weekend, while writing about a certain sexual proclivity of mine, I became really aroused and decided to go on CB. I found it enjoyable and was happy with the money I was making, so I continued. Since then, it hasn't always been easy, but I've been learning that taking breaks and showing up with energy and a good smirk on my face makes it a little new and still exciting each time I do a broadcast.
+
+The  psychoanalytic training I'm in will take three-and-a-half more years for me to complete. I'm planning to use this journey in sex work to both fund my life (on a meager and basic level, so I can afford rent, out-of-pocket health expenses, and educational expenses, and hopefully move into a studio or one-bedroom), and to explore the different form of social work that camming sometimes is.
+
 
 
 <div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>

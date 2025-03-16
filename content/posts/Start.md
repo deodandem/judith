@@ -2,7 +2,7 @@
 title: "Start"
 date: 2025-02-28T11:35:12-05:00
 draft: false
-summary: "An attempt at landing at a new place on a late winter's day."
+summary: an attempt at landing at a new place on a late winter's day.
 type: large
 format: large
 ---
