@@ -7,7 +7,14 @@ type: large
 format: large
 ---
 
-*(you may want to see my **[about](/about) page** as well...)*
+
+you may want to see my **[about](/about) page** as well...
+
+ask me additional questions by email!
+
+(last update: April 29, 2025)
+
+
 
 <br>
 
@@ -81,13 +88,13 @@ Can you say more about your detransition, and transition?
 
 <b>A:</b>
 
-Yeah, in most cursory terms, I was born female, and was fairly boyish as a child, perhaps in part due to my mother's influence—she wanted a boy, and would often speak poorly of girls and femininity. In middle and high school I felt upset with pubertal changes to my body and uncomfortable with my position as a girl, especially when I started dating boys in high school. I discovered the possibility of being trans, and began to identify as a boy when I was 16. At the age of 18, I got a prescription for testosterone, which I continued to take until the July of 2022.
+Yeah, in most cursory terms, I was born female, and was boyish as a child, perhaps in part due to my mother's influence; she wanted a boy, and often spoke negatively about femininity. In middle and high school I felt upset with pubertal changes to my body and uncomfortable with my position as a girl, especially when I started dating boys in high school. I discovered the possibility of being trans, and began to identify as a boy when I was 16. At the age of 18, I got a prescription for testosterone, which I continued to take until the July of 2022.
 
-Between 2019 and 2022 I slowly fell in love, hard, with a classmate from high school who had known me first as a girl, and who struck up a rather lovely email and letter-based correspondence with me years later. My desire for him led me to feel, on a raw and sexual and intuitive level, a new sense of self as female, and several months into my first analysis, I made the decision to detransition. I also detransitioned, in part, because I was curious to see what it would be like to date other men as a woman.
+Between 2019 and 2022 I slowly fell in love, hard, with a classmate from high school who had known me first as a girl, and who struck up a rather lovely email and letter-based correspondence with me years later. My desire for him led me to feel, on a raw and sexual and intuitive level, a new sense of self as female, and several months into my first analysis, I made the decision to detransition. I detransitioned in part to act on my desire to consummate a sexual relationship with him, but also to see what it would be like to date other men as a woman.
 
 Taking testosterone made me fairly serious, studious, and isolated, as well as somewhat restless, and highly motivated to exercise, which involved lifting, running, and cycling. I was more motivated to masturbate and look at porn, but had less of a sense of self as sexual, and far less developed sexual fantasies. It also made me leaner, hairier, and enlarged my clitoris and deepened my voice. When I stopped taking testosterone, I felt a drop in energy and often felt quite sleepy. I did laser hair removal to get rid of the hair on my face and have since used an IPL machine to reduce hair growth on my legs. I get cold more easily.
 
-Psychologically, I feel very happy and intellectually stimulated. My raw sex drive isn't as urgent or consistent as it was when I was male, but my sense of interest in pursuing sexual experiences is far higher. I feel less inhibited in a lot of ways. However I do still get sleepy more easily, and am less motivated to engage in intense physical exertion.
+Psychologically, I feel very happy and intellectually stimulated, being a woman. My raw sex drive isn't as urgent or consistent as it was when I was male, but my sense of interest in pursuing sexual experiences is far higher. I feel less inhibited in a lot of ways. However I do still get sleepy more easily, and am less motivated to engage in intense or extreme physical exertion than I was when I was male.
 
 
 <div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
@@ -98,8 +105,6 @@ Do you have a boyfriend or girlfriend? What's your type?
 
 **A:**
 
-I'm non-monogamous and am seeing a few people at any given time. I'm not interested in being in a committed, monogamous relationship at this time. My partners know that I do sex work and know about my attitudes towards relationships and monogamy. My "type" varies but I seem to be attracted to people with sharp, rough, or angular physical characteristics. It's also important to me that my partner isn't possessive, and that he (usually he) has a kind of "zen" or "realist" attitude towards the present and the future. That he doesn't try to mold me into something I'm not and that he doesn't try to mold himself into something he's not for the sake of attracting me. I also have trouble with men who behave like they really want to please me in bed. I prefer someone who isn't afraid to be selfish, who takes what they want first, and then perceives my reaction and adjusts to it or inquires into it.
+I've been largely non-monogamous for the last three years, but I'm primarily seeing one lover at this time. I guess camming and working as an analyst has reduced my interest in discovering new men to date or hook up with casually. My physical "type" varies, but I seem to be attracted to people with sharp, rough, or angular physical characteristics. But the most truthful answer would be that I'm most attracted to anyone who resembles someone I've been attracted to before. I'm also drawn to men who have a bit of a submissive streak, or who are beautiful enough to elicit in me the fantasy of mutilating or damaging the surface of their skin. I don't have experience with dating any avowed masochists because I don't like the idea of gratifying a masochist for free. But I'm interested in being a domme to someone who would pay me for it and whom I like.
 
-I mostly look out for physical attraction when I'm dating. I have trouble dating people who are in creative fields or who put a lot into their creative pursuits, probably because most of the people I've met who fall into that category ended up being both insecure and possessive, and I would feel uncomfortable being fetishized for my "taste" or for being "intellectual." I really prefer being wanted on the basis of my physical features or the way I talk rather than on the basis of abstract virtues.
 
-Lastly, I'm drawn to men who have a bit of a submissive streak. I don't have experience with dating any avowed masochists because I don't like the idea of gratifying a masochist for free. But I'm interested in being a domme to someone who would pay me for it and whom I like.
