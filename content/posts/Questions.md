@@ -8,13 +8,13 @@ format: large
 ---
 
 
-you may want to see my **[about](/about) page** as well...
+<div style="border: 1px solid rgb(200,100,100);; border-radius: 10px; padding: 10px 35px 10px 35px; width: fit-content; color: rgb(100,100,100); margin-bottom: 40px; background: rgb(250,250,250)">
 
-ask me additional questions by email!
+you may want to see my **[about page](/about)** as well,  
+and ask me additional questions by **[email](mailto:chiloschista@proton.me)**!
 
-(last update: April 29, 2025)
 
-
+</div>
 
 <br>
 

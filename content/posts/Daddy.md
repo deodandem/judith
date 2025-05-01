@@ -2,7 +2,7 @@
 title: "Daddy"
 date: 2025-04-28T10:39:07-04:00
 draft: false
-summary: on being attracted to a specific racial-ethnic "type"
+summary: on being attracted to some members of a "type."
 type: large
 format: large
 ---
