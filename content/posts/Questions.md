@@ -75,7 +75,7 @@ I was a graduate student with a stipend, busy writing and teaching, and I was a 
 
 The contract work I took on was frustrating to me, and I have found that my interest in creative writing has overtaken any remaining desire I have to complete my dissertation and/or pursue an academic career. One weekend, while writing about a certain sexual proclivity of mine, I became really aroused and decided to go on CB. I found it enjoyable and was happy with the money I was making, so I continued. Since then, it hasn't always been easy, but I've been learning that taking breaks and showing up with energy and a good smirk on my face makes it a little new and still exciting each time I do a broadcast.
 
-The  psychoanalytic training I'm in will take three-and-a-half more years for me to complete. I'm planning to use this journey in sex work to both fund my life (on a meager and basic level, so I can afford rent, out-of-pocket health expenses, and educational expenses, and hopefully move into a studio or one-bedroom), and to explore the different form of social work that camming sometimes is.
+The  psychoanalytic training I'm in will take two-and-a-half more years for me to complete. I'm planning to use this journey in sex work to both fund my life (on a meager and basic level, so I can afford rent, out-of-pocket health expenses, and educational expenses, and hopefully move into a studio or one-bedroom), and to explore the different form of social work that camming sometimes is.
 
 
 
