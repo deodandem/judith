@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/fault/</loc>
+    <loc>http://localhost:60597/posts/fault/</loc>
     <lastmod>2025-06-22T18:14:37-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:60597/</loc>
     <lastmod>2025-06-22T18:14:37-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:60597/posts/</loc>
     <lastmod>2025-06-22T18:14:37-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/fulfillment/</loc>
+    <loc>http://localhost:60597/posts/fulfillment/</loc>
     <lastmod>2025-05-15T16:15:19-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/dreams/</loc>
+    <loc>http://localhost:60597/posts/dreams/</loc>
     <lastmod>2025-05-01T14:54:32-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/daddy/</loc>
+    <loc>http://localhost:60597/posts/daddy/</loc>
     <lastmod>2025-04-28T10:39:07-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/aphrodite/</loc>
+    <loc>http://localhost:60597/posts/aphrodite/</loc>
     <lastmod>2025-03-14T09:26:16-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/start/</loc>
+    <loc>http://localhost:60597/posts/start/</loc>
     <lastmod>2025-02-28T11:35:12-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/questions/</loc>
+    <loc>http://localhost:60597/posts/questions/</loc>
     <lastmod>2025-02-21T10:32:17-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:60597/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:60597/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:60597/tags/</loc>
   </url>
 </urlset>

@@ -8,52 +8,33 @@ format: large
 ---
 
 
-<div style="border: 1px solid rgb(200,100,100);; border-radius: 10px; padding: 10px 35px 10px 35px; width: fit-content; color: rgb(100,100,100); margin-bottom: 40px; background: rgb(250,250,250)">
+*Where are you from? Do you speak other languages?*
 
-you may want to see my **[about page](/about)** as well,  
-and ask me additional questions by **[email](mailto:chiloschista@proton.me)**!
-
-
-</div>
-
-<br>
-
-<b>Q:</b>
-
-Would you go on an in-person date with me?
-
-**A:**
-
-It's not outside of the realm of possibility, but there are several logistical items that we'd have to be on the same page about. If you're curious, [**email me**](mailto:chiloschista@proton.me).
-
-<div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
-
-
-<b>Q:</b>
-
-Where are you from? Do you speak other languages?
-
-<b>A:</b>
 
 I am American. I grew up on both the West and East Coast and have lived in California, Washington, Virginia, and New York. I primarily speak English, though I spoke some Mandarin growing up with my Taiwanese grandmother. My father is Korean, I don't speak the language. I studied Spanish and Spanish-language literature in college. I also studied Portuguese, French, Japanese, and Ancient Greek (a little). Now I reside in Brooklyn, NY. I hope to live in Manhattan in the future, and possibly for the rest of my life.
 
 <div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
 
+*How long have you been playing the cello for?*
 
-**Q:** How can I get to know you better?
+I started playing when I was about 8 or 9, and it was one of my main activities through high school; I wanted to be a professional musician until my final year of high school, when I started to get more involved in studying math and writing. I played some in college, but haven't performed or taken lessons since 2019.
 
-**A:** The reality is that the best way to get to know me is to come to my streams. You can also [**email me**](mailto:chiloschista@proton.me) or DM me on [**OnlyFans**](http://onlyfans.com/chiloschista). I tend to be receptive to answering various questions, but I often experience it as tiring to be asked a question by someone I don't know anything about. If you want to get to know me, try flipping the question around: How can I get to know *you* better?
-
-Once I know a little more about you, I'll be more receptive to entering into a conversation, rather than an interview. I'm often curious about the work you do, your relationships with other people, and the music you listen to.
+I have not had a great relationship to playing the cello until I started doing it again on stream, and maybe I'll write about that in more detail some time.
 
 <div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
 
+*How can I get to know you better?*
 
-**Q:**
+The reality is that the best way to get to know me is to come to my streams. You can also [**email me**](mailto:chiloschista@proton.me) or DM me on [**OnlyFans**](http://onlyfans.com/chiloschista). I tend to be receptive to answering various questions, but I often experience it as tiring to be asked a question by someone I don't know anything about. If you want to get to know me, try flipping the question around: How can I get to know *you* better?
 
-How do you think about the ethics of sex work, on the client side? In other words, does a good life, for your client, involve paying you for sexual services?
+Once I know a little more about you, I'll be more receptive to entering into a conversation, rather than an interview. I'm often curious about the work you do, your relationships with other people, and the music you listen to.
 
-**A:**
+Finally, see my [*about*](/about) page if you want to connect elsewhere.
+
+<div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
+
+*How do you think about the ethics of sex work, on the client side? In other words, does a good life, for your client, involve paying you for sexual services?*
+
 
 As a client, you should feel the pressure of the expense as a boon for thinking about why this is important to you and what you hope to come away with after each encounter. If I determine that it's worth seeing you in private, I want to be a participant in your pursuit of your desires. Pursuing your desires and having them satisfied but not permanently satisfied by a real person, I think, can free up a lot of energy, making you more engaged in other areas of your life that matter. I'd also like to help you think differently about your wants and needs, so that the stuckness associated with repetitive patterns (whether it be something that you feel is stuck or wrong with respect to your sexuality, and specifically with respect to the use of pornography or sexual services) can be modified.
 
@@ -61,13 +42,8 @@ As a client, you should feel the pressure of the expense as a boon for thinking 
 
 <div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
 
+*What motivated you to start camming? Is this a short-term or long-term thing? Do you have another profession? How does it actually feel to cam regularly?*
 
-
-**Q:**
-
-What motivated you to start camming? Is this a short-term or long-term thing? Do you have another profession? How does it actually feel to cam regularly?
-
-**A:**
 
 During the pandemic, when I was far more isolated, I would watch models on CB to decompress at the end of the day. Beyond the immediate horniness this triggered in me, I found myself admiring and interested in the work the women did and in how the crowd interacted with them. I also loved the token sound.
 
@@ -82,11 +58,7 @@ The  psychoanalytic training I'm in will take two-and-a-half more years for me t
 <div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
 
 
-<b>Q:</b>
-
-Can you say more about your detransition, and transition?
-
-<b>A:</b>
+*Can you say more about your detransition, and transition?*
 
 Yeah, in most cursory terms, I was born female, and was boyish as a child, perhaps in part due to my mother's influence; she wanted a boy, and often spoke negatively about femininity. In middle and high school I felt upset with pubertal changes to my body and uncomfortable with my position as a girl, especially when I started dating boys in high school. I discovered the possibility of being trans, and began to identify as a boy when I was 16. At the age of 18, I got a prescription for testosterone, which I continued to take until the July of 2022.
 
@@ -99,11 +71,9 @@ Psychologically, I feel very happy and intellectually stimulated, being a woman.
 
 <div style="font-size:25px; margin: 50px auto 50px 275px; width: fit-content;">//</div>
 
-<b>Q:</b>
 
-Do you have a boyfriend or girlfriend? What's your type?
+*Do you have a boyfriend or girlfriend? What's your type?*
 
-**A:**
 
 I've been largely non-monogamous for the last three years, but I'm seeing just one person now. This doesn't preclude me from fantasizing with you all on CB. My physical "type" varies, but I seem to be attracted to people with sharp, rough, or angular physical characteristics. But the most truthful answer would be that I'm most attracted to anyone who resembles someone I've been attracted to before. I'm also drawn to men who have a bit of a submissive streak, or who are beautiful enough to elicit in me the fantasy of mutilating or damaging the surface of their skin. I don't have experience with dating any avowed masochists because I don't like the idea of gratifying a masochist for free. But I'm interested in being a domme to someone who would pay me for it and whom I like.
 
