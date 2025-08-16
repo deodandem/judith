@@ -25,7 +25,7 @@ I have not had a great relationship to playing the cello until I started doing i
 
 *How can I get to know you better?*
 
-The reality is that the best way to get to know me is to come to my streams. You can also [**email me**](mailto:chiloschista@proton.me) or DM me on [**OnlyFans**](http://onlyfans.com/chiloschista). I tend to be receptive to answering various questions, but I often experience it as tiring to be asked a question by someone I don't know anything about. If you want to get to know me, try flipping the question around: How can I get to know *you* better?
+The reality is that the best way to get to know me is to come to my streams. You can also [**email me**](mailto:chiloschista@proton.me) or send me DMs on the platform. I tend to be receptive to answering various questions, but I often experience it as tiring to be asked a question by someone I don't know anything about. If you want to get to know me, try flipping the question around: How can I get to know *you* better?
 
 Once I know a little more about you, I'll be more receptive to entering into a conversation, rather than an interview. I'm often curious about the work you do, your relationships with other people, and the music you listen to.
 
